@@ -1,7 +1,7 @@
 - 👋 Hi, I'm is jonathan
 - 👀 I’m interested in the sofware
 - 🌱 I’m currently learning  to  To be a developer of the over
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate With anyone who teaches me
 - 📫 How to reach me ...
 
 <!---
