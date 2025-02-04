@@ -1,6 +1,6 @@
 - 👋 Hi, I'm is jonathan
 - 👀 I’m interested in the sofware
-- 🌱 I’m currently learning  ei  To be a developer of the over
+- 🌱 I’m currently learning  to  To be a developer of the over
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
